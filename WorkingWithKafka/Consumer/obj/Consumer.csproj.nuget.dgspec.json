@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\NC-Z-DANESHI\\Resources\\Practices\\WorkingWithKafka\\Consumer\\Consumer.csproj": {}
+  },
+  "projects": {
+    "\\\\NC-Z-DANESHI\\Resources\\Practices\\WorkingWithKafka\\Consumer\\Consumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\NC-Z-DANESHI\\Resources\\Practices\\WorkingWithKafka\\Consumer\\Consumer.csproj",
+        "projectName": "Consumer",
+        "projectPath": "\\\\NC-Z-DANESHI\\Resources\\Practices\\WorkingWithKafka\\Consumer\\Consumer.csproj",
+        "packagesPath": "C:\\Users\\t.talebi\\.nuget\\packages\\",
+        "outputPath": "\\\\NC-Z-DANESHI\\Resources\\Practices\\WorkingWithKafka\\Consumer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\t.talebi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azure.charisma.tech/Brokerage/_packaging/Charisma_Trader_Framework_Backend%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

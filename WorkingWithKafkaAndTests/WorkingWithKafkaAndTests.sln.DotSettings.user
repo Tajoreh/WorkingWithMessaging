@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=29b60559_002Dc03f_002D49c3_002D81f5_002D3587c571139f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Consume_Should_Stop_On_Cancellation" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3AAC01B4-823B-4A69-B6D0-F425E6070520::net6.0::WorkingWithKafkaAndTests.Test.Unit.KafkaConsumerTest.Consume_Should_Stop_On_Cancellation&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aeb1b35a_002D5e44_002D478c_002D8f95_002De38612933c2c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="consumer_should_consumes" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3AAC01B4-823B-4A69-B6D0-F425E6070520::net6.0::WorkingWithKafkaAndTests.Test.Unit.KafkaConsumerTest.Consume_Should_Stop_On_Cancellation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3AAC01B4-823B-4A69-B6D0-F425E6070520::net6.0::WorkingWithKafkaAndTests.Test.Unit.KafkaConsumerTest.Consume_Should_Handle_Exception_During_Message_Processing&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3AAC01B4-823B-4A69-B6D0-F425E6070520::net6.0::WorkingWithKafkaAndTests.Test.Unit.KafkaConsumerTest.consumer_should_consumes&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

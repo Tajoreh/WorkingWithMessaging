@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Resources\\Practices\\Messaging\\Messaging\\src\\MassTransitSample\\Producer.Event\\Producer.Event.csproj": {}
+  },
+  "projects": {
+    "D:\\Resources\\Practices\\Messaging\\Messaging\\src\\MassTransitSample\\Producer.Event\\Producer.Event.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Resources\\Practices\\Messaging\\Messaging\\src\\MassTransitSample\\Producer.Event\\Producer.Event.csproj",
+        "projectName": "Producer.Event",
+        "projectPath": "D:\\Resources\\Practices\\Messaging\\Messaging\\src\\MassTransitSample\\Producer.Event\\Producer.Event.csproj",
+        "packagesPath": "C:\\Users\\z.daneshi\\.nuget\\packages\\",
+        "outputPath": "D:\\Resources\\Practices\\Messaging\\Messaging\\src\\MassTransitSample\\Producer.Event\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Resources\\Practices\\Messaging\\Messaging\\src\\MassTransitSample\\NuGet.Config",
+          "C:\\Users\\z.daneshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azure.charisma.tech/Brokerage/Trader/_packaging/InstrumentProfileContracts/nuget/v3/index.json": {},
+          "https://azure.charisma.tech/Brokerage/_packaging/Order_Management_Contracts/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

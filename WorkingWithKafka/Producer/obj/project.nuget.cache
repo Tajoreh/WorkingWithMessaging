@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "V2wWnrO2yQYr4QdtMDKIBxLUrvOLfJ6Dgq0dGOnvkdpv/+Z/Zk/UdEn8PiiidzQl0WZ4TPqXHmK8sJF91UF8qA==",
+  "success": true,
+  "projectFilePath": "\\\\NC-Z-DANESHI\\Resources\\Practices\\WorkingWithKafka\\Producer\\Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t.talebi\\.nuget\\packages\\confluent.kafka\\2.0.2\\confluent.kafka.2.0.2.nupkg.sha512",
+    "C:\\Users\\t.talebi\\.nuget\\packages\\librdkafka.redist\\2.0.2\\librdkafka.redist.2.0.2.nupkg.sha512",
+    "C:\\Users\\t.talebi\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
